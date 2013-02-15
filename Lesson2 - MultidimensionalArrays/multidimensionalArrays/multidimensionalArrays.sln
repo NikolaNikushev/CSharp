@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise1PrintMatrixes", "Excercise1PrintMatrixes\Excercise1PrintMatrixes.csproj", "{AABC6F70-CE4A-46AB-BEF4-ED6F5596D162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise2Max3x3InRetrangleMatrix", "Excercise2Max3x3InRetrangleMatrix\Excercise2Max3x3InRetrangleMatrix.csproj", "{EDEB410A-709B-447E-9834-FA7DE2F0F552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise3SequenceInMatrix", "Excercise3SequenceInMatrix\Excercise3SequenceInMatrix.csproj", "{BDB35C1A-CE0E-4522-BC6A-8CC20541E6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise4BinSearchSortAndClosestToK", "Excercise4BinSearchSortAndClosestToK\Excercise4BinSearchSortAndClosestToK.csproj", "{1D838F4E-FBCF-427E-B05F-4903302EFD68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise5SortStringsByLength", "Excercise5SortStringsByLength\Excercise5SortStringsByLength.csproj", "{17D7E3B8-50F1-4063-88D1-C92AFB5390CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABC6F70-CE4A-46AB-BEF4-ED6F5596D162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABC6F70-CE4A-46AB-BEF4-ED6F5596D162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABC6F70-CE4A-46AB-BEF4-ED6F5596D162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABC6F70-CE4A-46AB-BEF4-ED6F5596D162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEB410A-709B-447E-9834-FA7DE2F0F552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEB410A-709B-447E-9834-FA7DE2F0F552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEB410A-709B-447E-9834-FA7DE2F0F552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEB410A-709B-447E-9834-FA7DE2F0F552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB35C1A-CE0E-4522-BC6A-8CC20541E6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB35C1A-CE0E-4522-BC6A-8CC20541E6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB35C1A-CE0E-4522-BC6A-8CC20541E6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB35C1A-CE0E-4522-BC6A-8CC20541E6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D838F4E-FBCF-427E-B05F-4903302EFD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D838F4E-FBCF-427E-B05F-4903302EFD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D838F4E-FBCF-427E-B05F-4903302EFD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D838F4E-FBCF-427E-B05F-4903302EFD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D7E3B8-50F1-4063-88D1-C92AFB5390CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D7E3B8-50F1-4063-88D1-C92AFB5390CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D7E3B8-50F1-4063-88D1-C92AFB5390CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D7E3B8-50F1-4063-88D1-C92AFB5390CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
